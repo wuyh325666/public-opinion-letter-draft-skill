@@ -1,0 +1,6 @@
+interface:
+  display_name: "企业舆情函件撰写"
+  short_description: "一份舆情表形成一封企业函件，聚焦具体行为、品牌影响和处理诉求"
+  default_prompt: "使用 $public-opinion-letter-draft，根据这份核查表和事实材料撰写一封综合函件，正文不含链接、账号、记录编号或台账内容。"
+policy:
+  allow_implicit_invocation: true
